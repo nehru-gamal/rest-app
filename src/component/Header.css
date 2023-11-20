@@ -1,0 +1,31 @@
+header{
+    background: url("../Images/cover2.avif") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    border-radius: 0;
+    margin: 65px 0;
+    padding-top: 70px;
+}
+.info{
+    padding-bottom: 100px;
+}
+.info h3 {
+    color: #43121d;
+    font-size: 60px;
+}
+
+.info p {
+    color: #55636e;
+    font-size: 16px;
+}
+
+.info .btn-danger {
+    margin-right: 20px;
+}
+.info button{
+    margin-bottom: 10px;
+}
